@@ -1,0 +1,46 @@
+{
+  "users": {
+    "5584273202": {
+      "id": 5584273202,
+      "username": "LUTHER9",
+      "fullname": "DJETFLEX™🥇",
+      "balance": 0,
+      "referrals": [],
+      "referredBy": null,
+      "joinedAt": 1763084745345,
+      "banned": false
+    }
+  },
+  "withdrawals": {},
+  "channels": [
+    "-1002011974263",
+    "-1002645098690",
+    "-1002239292620"
+  ],
+  "settings": {
+    "min_withdraw": 60000,
+    "ref_bonus": 3000
+  },
+  "contents": {
+    "gagner": [],
+    "safe": [
+      {
+        "type": "photo",
+        "file_id": "AgACAgQAAxkBAAIBbWkW1SLzNwLIWlYkIYz3nuTRZgOnAAJIC2sb8um5UEFG0Y970750AQADAgADeQADNgQ",
+        "caption": "Cc"
+      }
+    ],
+    "grosse": [],
+    "failles": [],
+    "comment": [],
+    "canal": [],
+    "undefined": [],
+    "<key>": []
+  },
+  "admin_ids": [],
+  "channelLinks": {
+    "-1002011974263": "https://t.me/+bYc1l-VIzfdhYjBk",
+    "-1002645098690": "https://t.me/DJETFLEXy",
+    "-1002239292620": "https://t.me/RETRAIT90"
+  }
+}
